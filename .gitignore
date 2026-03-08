@@ -30,3 +30,7 @@ Thumbs.db
 tmp/
 *.tmp
 *.log
+
+# Markdown files (except README.md)
+*.md
+!README.md
